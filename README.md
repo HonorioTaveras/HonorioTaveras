@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/TaverasHonorio)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:htaveras90@gmail.com)
 
-My name is Honorio Taveras (Oh-no-ree-oh, Tuh-vare-us). Pleasure to meet you! I am a full stack software engineer based in Boulder, CO, currently and actively seeking career opportunities!
 <!--
 **HonorioTaveras/HonorioTaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
