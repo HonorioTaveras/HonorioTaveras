@@ -15,4 +15,4 @@ My name is Honorio Taveras (Oh-no-ree-oh, Tuh-vare-us). Pleasure to meet you! I 
 - 💬 Ask me about my love for React and my adventures on the rock.
 - 📫 How to reach me: htaveras90@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I live for climbing and music. I code for climbing and music. I climb and play music for love.
+- ⚡ Fun fact: I live for climbing and music. I code for climbing and music. I code, climb and play music for love.
