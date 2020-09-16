@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Honorio Taveras (Oh-no-ree-oh, Tuh-vare-us). Pleasure to meet you! I am a software engineer based in Boulder, CO, currently and actively seeking career opportunities!
+My name is Honorio Taveras (Oh-no-ree-oh, Tuh-vare-us). Pleasure to meet you! I am a full stack software engineer based in Boulder, CO, currently and actively seeking career opportunities!
 <!--
 **HonorioTaveras/HonorioTaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
