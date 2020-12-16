@@ -14,4 +14,4 @@
 - 💬 Ask me about my love for React and my adventures on the rock.
 - 📫 How to reach me: htaveras90@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I live for climbing and music. I code for climbing and music. I code, climb and play music for love.
+- ⚡ Fun fact: I live for climbing and music. I code for climbing and music. I code, climb and play music with love.
