@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=honoriotaveras&show_icons=true&theme=radical">
 
 ### Hi there 👋
-[![portfolio](https://img.shields.io/static/v1?label=portfolio&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=red)](https://www.honoriotaveras.com)
-[![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange)](https://www.linkedin.com/in/honorio-taveras/)
+[![portfolio](https://img.shields.io/static/v1?label=portfolio&message=%20&color=800080&logo=&style=flat-square&logoColor=white)](https://www.honoriotaveras.com)
+[![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=ffa500&logo=&style=flat-square&logoColor=white)](https://www.linkedin.com/in/honorio-taveras/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/TaverasHonorio)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:htaveras90@gmail.com)
 
