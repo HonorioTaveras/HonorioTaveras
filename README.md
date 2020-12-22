@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=honoriotaveras&show_icons=true&theme=radical">
 
 ### Hi there 👋
-[![portfolio](https://img.shields.io/static/v1?label=portfolio&message=%20&color=800080&logo=&style=flat-square&logoColor=white)](https://www.honoriotaveras.com)
-[![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=ffa500&logo=&style=flat-square&logoColor=white)](https://www.linkedin.com/in/honorio-taveras/)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/TaverasHonorio)
-[![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=ff0000&logo=gmail&style=flat-square&logoColor=white)](mailto:htaveras90@gmail.com)
+[![portfolio](https://img.shields.io/static/v1?label=portfolio&message=%20&color=800080&logo=&style=flat-square&logoColor=white)](https://www.honoriotaveras.com){:target="_blank" rel="noopener"}
+[![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=ffa500&logo=&style=flat-square&logoColor=white)](https://www.linkedin.com/in/honorio-taveras/){:target="_blank" rel="noopener"}
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/TaverasHonorio){:target="_blank" rel="noopener"}
+[![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=ff0000&logo=gmail&style=flat-square&logoColor=white)](mailto:htaveras90@gmail.com){:target="_blank" rel="noopener"}
 
 <!--
 **HonorioTaveras/HonorioTaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
