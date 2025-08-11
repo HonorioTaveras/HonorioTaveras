@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=honoriotaveras&show_icons=true&theme=radical">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=honoriotaveras&show_icons=true&theme=radical"> -->
 
 ### Hi there 👋
 [![portfolio](https://img.shields.io/static/v1?label=portfolio&message=%20&color=800080&logo=&style=flat-square&logoColor=white)](https://www.honoriotaveras.com)
