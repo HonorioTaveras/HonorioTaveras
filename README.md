@@ -10,7 +10,7 @@
 **HonorioTaveras/HonorioTaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Delphi Clothing](https://github.com/HonorioTaveras/delphi-clothing)
+- 🔭 I’m currently working on [My new SRE portfolio](https://github.com/HonorioTaveras/sre-portfolio))
 - 👯 I’m looking to collaborate on any software engineering projects that you are passionate about. Let's have a conversation!
 - 💬 Ask me about my love for React and my adventures on the rock.
 - 📫 How to reach me: htaveras90@gmail.com
