@@ -10,7 +10,7 @@
 **HonorioTaveras/HonorioTaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [My new SRE portfolio](https://github.com/HonorioTaveras/sre-portfolio))
+- 🔭 I’m currently working on [My new SRE portfolio](https://github.com/HonorioTaveras/sre-portfolio)
 - 👯 Always up for collaborating on SRE, DevOps, and cloud projects. Let’s build something awesome.!
 - 💬 Ask me about my love for Terraform and my adventures on the rock.
 - 📫 How to reach me: htaveras90@gmail.com
